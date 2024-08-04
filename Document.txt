@@ -1,0 +1,14 @@
+The user-select property specifies whether the text of an element can be selected.
+
+document.createElement() method in JavaScript is used to create a new HTML element with a specified tag name.
+
+appendChild is a method used in JavaScript to add an element as a child to another element.
+
+the classList a read-only property that is used to return CSS classes in the form of an array.
+
+toggle() The toggle() button is used for toggling classes to the element. It means adding a new class or removing the existing classes.
+
+Arrow function {()=>} is concise way of writing JavaScript functions in shorter way.
+
+ localStorage is a property that allows JavaScript sites and apps to save key-value pairs in a web browser with no expiration date. This means the data stored persists even after the user closes the browser or restarts the computer.
+
